@@ -23,7 +23,7 @@
   url: "/festinforna/"
   side: left
 
-- title: Dove siamo
+- title: "Dove siamo"
   url: "/dove/"
   side: left
   dropdown:
