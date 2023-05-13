@@ -11,7 +11,7 @@
 title: 'Fornasotto'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Furnasòt - Localita' del comune di Pontirolo Nuovo (Bergamo)'
+slogan: 'Localita' del comune di Pontirolo Nuovo (Bergamo)'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: 'Fornasotto e' una localita' del comune di Pontirolo Nuovo in provincia di Bergamo. Segui queste pagine per scoprirla. '
@@ -80,7 +80,7 @@ exclude:
 
 
 # The language setting is used in /includes/header.html for html-settings
-language: 'it'
+language: 'en'
 
 
 # Used › default.html front-matter and compress.html
