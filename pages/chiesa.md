@@ -10,6 +10,7 @@ header:
     image: header_unsplash_2-970x.jpg
     background-color:  "#304558"
     caption: This is a caption for the header image with link
+permalink: "/chiesa/"
     
 ---
 Fornasotto è una località del comune di Pontirolo Nuovo, in provincia di Bergamo, sita nella zona Nord di detto comune.
