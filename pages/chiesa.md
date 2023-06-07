@@ -7,7 +7,7 @@ tags:
     - chiesa
     - storia
 header:
-    image_fullwidth: chiesa_fornasotto.jpg
+    image: chiesa_fornasotto.png
     background-color:  "#304558"
     caption: This is a caption for the header image with link
 permalink: "/chiesa/"
