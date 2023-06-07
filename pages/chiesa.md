@@ -7,7 +7,7 @@ tags:
     - chiesa
     - storia
 header:
-    image: header_unsplash_2-970x.jpg
+    image: chiesa_fornasotto.jpg
     background-color:  "#304558"
     caption: This is a caption for the header image with link
 permalink: "/chiesa/"
@@ -20,13 +20,6 @@ Non abbiamo per ora documentazione particolare in merito agli abitanti "antichi"
 
 ### La chiesa di Fornasotto
 Agli inizi del novecento venne costruito da parte dello svizzero Antonio Reich uno stabilimento tessile, opificio specializzato nella produzione di tessuti damascati. Attorno allo stabilimento sorsero abitazioni per il direttore, per gli impiegati e in parte anche per gli operai; nel suo insieme doveva ricalcare come stile il villaggio Crespi. Quindi c'era stata anche la promessa da parte della ditta tessile (promessa riportata e ricordata in seguito da Mons. Felice Vigentini) della costruzione di una chiesa. Non se ne fece nulla e gran parte dei progetti iniziali naufragò. Negli anni settanta ( e dintorni) a seguito del grande sviluppo industriale del nostro paese, anche Fornasotto ne fu coinvolto e si parlò di sviluppo, di case per pensionati, abitazioni per operai, impianti sportivi, ecc. Ma pure questa volta le cose non andarono per il verso prospettato, ad eccezione della Chiesa. Alcuni dati. 20 maggio 1942 il Cardinale Ildefonso Schuster, in visita pastorale alla parrocchia di Pontirolo, raccomanda attenzione e cura della frazione di Fornasotto Nel 1944 in pieno periodo bellico, l' 8 dicembre, giorno della festa dell'Immacolata, al mattino, sul viale dei tigli, nel piccolo spiazzo antistante l'entrata nel cortile di &quot;Maio Gall&quot;, davanti alla cappellina dei &quot;Murtì&quot; viene celebrata per la prima volta la santa Messa e, come si può comprendere, all'addiaccio. In seguito verrà celebrata nel salone della casa del Direttore dello stabilimento (sig. Gritti). E' l'attuale villa verde vicino alla chiesa. Al piano terra: a sinistra il salone-chiesina, a destra, divisi dal corridoio, il circolo Enal. Successivamente la santa Messa verrà celebrata a casa Emmaus. Infine nella attuale nostra bella Chiesa. 1950. Si abbandona, ritenendola cosa superiore alle proprie forze, l'idea della costruzione di una chiesa e a ricordo di questo desiderio incompiuto viene eretta la cappellina (o tribulina, che dir si voglia) della Fornasetta. Il 27 febbraio 1960 il cardinale Giovan Battista Montini, futuro Papa Paolo Sesto, in visita pastorale alla nostra parrocchia, invita il parroco ad affrontare lo studio di alcuni gravi problemi, tra questi: la costruzione di una chiesa sussidiaria alla frazione Fornasotto, con relativo asilo infantile. In quella occasione fece visita anche alla &quot;chiesina-salone&quot; di Fornasotto. In questo periodo la celebrazione della Messa festiva avviene presso l'odierna Casa Emmaus. In seguito, anche l'oratorio prende sede a Casa Emmaus. 1975 la Ditta MIB-Carminati dona il terreno per la costruzione della chiesa. Progetto dell'architetto Duccio Bencetti e direzione dei lavori dell' architetto Vincenzo Aliati. 6 settembre, sabato, 1975 si riunisce tutta le gente di Fornasotto e decide all'unanimità la costruzione della chiesa. 30 aprile 1977 viene costituito un Comitato operativo, composto da 12 persone, che seguiranno i lavori per la nuova chiesa, e seguiranno anche la vita della Comunità. 7 luglio 1977 approvazione del progetto e appalto vinto dalla Ditta Mascheroni Carlo di Pontirolo Il 19 luglio 1977 la posa della prima pietra 26 agosto 1977 le ruspe di Gino Quintini eseguono lo sterro. 25 Dicembre 1977 celebrazione della Messa di mezzanotte nel seminterrato della erigenda chiesa. Il 19 dicembre 1981 viene consacrata la nuova Chiesa da parte del Vescovo Mons. Renato Corti, vicario del Card. Martini. (attualmente Mons. Renato Corti è Vescovo di Novara). 
-
-<div class="row">
-    <div class="medium-8 columns t30">
-    <img src="{{ site.urlimg }}chiesa_fornasotto.jpg" alt="">
-    </div><!-- /.medium-8.columns -->
-
-</div><!-- /.row -->
 
 
 <div class="row">
