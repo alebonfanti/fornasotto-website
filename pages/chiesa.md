@@ -23,11 +23,11 @@ Agli inizi del novecento venne costruito da parte dello svizzero Antonio Reich u
 
 
 <div class="row">
-    <div class="medium-4 columns t30">
+    <div class="medium-4 columns t20">
     <img src="{{ site.urlimg }}chiesa_fornasotto_02.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
-    <div class="medium-4 columns t30">
+    <div class="medium-4 columns t20">
       <img src="{{ site.urlimg }}chiesa_fornasotto_03.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
