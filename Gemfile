@@ -1,13 +1,13 @@
-source 'https://rubygems.org'
+# frozen_string_literal: true
 
-gem 'jekyll'
+source "https://rubygems.org"
 
+# gem "rails"
+gem "jekyll", "~> 3.0"
+gem "kramdown-parser-gfm"
 group :jekyll_plugins do
+  gem 'jekyll-asciidoc'
   gem 'jekyll-gist'
   gem 'jekyll-paginate'
-  gem "jekyll-asciidoc"
+  gem "webrick", "~> 1.8"
 end
-
-gem 'asciidoctor', '~> 1.5.4'
-gem 'coderay', '1.1.1'
-

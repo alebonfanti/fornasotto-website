@@ -9,11 +9,6 @@
 - title: "Casa Emmaus"
   url: "/emmaus/"
   side: left
-  dropdown:
-  - title: "Storia"
-    url: "/emmaus_storia/"
-  - title: "Servizi"
-    url: "/emmaus_servizi/"
 
 - title: "Campus sportivo"
   url: "/campus_sportivo/"
@@ -26,9 +21,6 @@
 - title: "Dove siamo"
   url: "/dove/"
   side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
 
 - title: "Search"
   url: "/search/"
