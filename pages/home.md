@@ -13,6 +13,10 @@ permalink: "/home/"
     
 ---
 
+BENVENUTI! 
+
+
+In queste pagine potrete conoscere meglio la realtà di questo piacevole luogo della provincia di Bergamo.
 
 <div class="row">
     <div class="medium-4 columns t20">
