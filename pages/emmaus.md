@@ -14,7 +14,7 @@ permalink: "/emmaus/"
     
 ---
 ### La storia
-Negli anni sessanta venne acquistata dal Parroco di Pontirolo Nuovo, Don Felice, l'abitazione, oggi chiamata &quot;Casa Emmaus&quot;. Negli anni precedenti l'ultima guerra e durante un periodo bellico, c'era una sala da ballo. Dicono che vi siano pasti anche Fausto Coppi e spesse volte il famoso motociclista bergamasco Ubiali (più volte campione del mondo).
+Negli anni sessanta venne acquistata dal Parroco di Pontirolo Nuovo, Don Felice, l'abitazione, oggi chiamata &quot;Casa Emmaus&quot;. Negli anni precedenti l'ultima guerra e durante un periodo bellico, c'era una sala da ballo. Dicono che vi siano stati anche Fausto Coppi e spesse volte il famoso motociclista bergamasco Ubiali (più volte campione del mondo).
 
 In quegli anni si inizio’ l’attività di oratorio, trovando la collaborazione, a tempi alterni, in alcuni giovani di Treviglio, di Vaprio e di Capriate. Successivamente nell'aiuto e nel sostegno di tre giovani seminaristi Monfortani, che ora sono: Padre Giuseppe Mizzotti, Padre Taddeo e Padre Roberto. 
 

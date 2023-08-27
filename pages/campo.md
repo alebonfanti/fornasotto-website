@@ -7,7 +7,7 @@ tags:
     - campo sportivo
     - storia
 header:
-    image: campo_sportivo.png
+    image: campo.png
     background-color:  "#304558"
     caption: Campo sportivo di Fornasotto
 permalink: "/campus_sportivo/"
