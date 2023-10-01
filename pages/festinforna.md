@@ -6,13 +6,14 @@ teaser: ""
 tags:
     - festa
 header:
-    image: home.png
+    image: home.jpg
     background-color:  "#304558"
-    caption: Festinforna
+    caption: 
 permalink: "/festinforna/"
     
 ---
 ### Benvenuti alla 18a edizione di Festinforna!
+<br/><br/>
 
 Festinforna (detta anche Fif) si svolge a Fornasotto la seconda a terza settimana di Ottobre. 
 
@@ -26,5 +27,15 @@ Da non perdere nemmeno i laboratori scientifici Domenica 8 Ottobre a partire dal
 
 
 
+<div class="row">
+    
+    <img src="{{ site.urlimg }}Volantino2023.png" alt="">
+    
+</div><!-- /.row -->
 
+<div class="row">
+    
+    <img src="{{ site.urlimg }}lab.png" alt="">
+    
+</div><!-- /.row -->
 

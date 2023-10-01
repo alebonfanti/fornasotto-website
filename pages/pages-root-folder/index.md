@@ -34,3 +34,16 @@ In queste pagine potrete conoscere meglio la realtà di questo piacevole luogo d
 </div><!-- /.row -->
 
 
+<div class="row">
+    
+    <img src="{{ site.urlimg }}menu.png" alt="">
+    
+</div><!-- /.row -->
+
+<div class="row">
+    
+    <img src="{{ site.urlimg }}menu.png" alt="">
+    
+</div><!-- /.row -->
+
+
