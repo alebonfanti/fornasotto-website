@@ -17,8 +17,10 @@ homepage: true
 In queste pagine potrete conoscere meglio la realtà di questo piacevole luogo della provincia di Bergamo.
 
 -------------------------------------------------
-### Torna FESTINFORNA, la festa di Fornasotto che dal 5 al 15 ottobre farà divertire grandi e piccoli. La buona cucina è il fiore all'occhiello della nostra festa e quest'anno avremo delle sorprese per voi. Ovviamente il programma è come sempre ricco e vi aspettano serate fantastiche all'insegna dell'allegria.
--------------------------------------------------
+### Torna FESTINFORNA, la festa di Fornasotto che dal 5 al 15 ottobre farà divertire grandi e piccoli
+<br/>
+La buona cucina è il fiore all'occhiello della nostra festa e quest'anno avremo delle sorprese per voi. Il ricco programma lo trovate di seguito insieme al menu'!
+
 
 
 <div class="row">
@@ -40,10 +42,6 @@ In queste pagine potrete conoscere meglio la realtà di questo piacevole luogo d
     
 </div><!-- /.row -->
 
-<div class="row">
-    
-    <img src="{{ site.urlimg }}menu.png" alt="">
-    
-</div><!-- /.row -->
+
 
 
