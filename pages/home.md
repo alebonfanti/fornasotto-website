@@ -18,5 +18,3 @@ BENVENUTI!
 
 In queste pagine potrete conoscere meglio la realtà di questo piacevole luogo della provincia di Bergamo.
 
-
-
